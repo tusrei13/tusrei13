@@ -54,78 +54,27 @@ tusrei13 = {
 ## 🛠️ Tech Stack
 
 <details open>
-<summary><b>🔮 Programming Languages</b></summary>
+<summary><b>🔮 Languages</b></summary>
 <br/>
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=py,ts,js,c,cpp,java,bash,powershell,md&perline=9"/>
 </details>
 
 <details open>
 <summary><b>⚛️ Frontend, Mobile & Frameworks</b></summary>
 <br/>
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,flutter,express,fastapi,flask,html,css&perline=9"/>
 </details>
 
 <details open>
-<summary><b>🗄️ Databases, ORM & Authentication</b></summary>
+<summary><b>🗄️ Databases & Cloud</b></summary>
 <br/>
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-</details>
-
-<details open>
-<summary><b>☁️ Cloud, DevOps & Data Engineering</b></summary>
-<br/>
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,aws,vercel,docker,kubernetes&perline=9"/>
 </details>
 
 <details open>
 <summary><b>🔧 Tools & Platforms</b></summary>
 <br/>
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=git,github,npm,figma,notion&perline=9"/>
 </details>
 
 ---
@@ -143,7 +92,7 @@ tusrei13 = {
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=tusrei13&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&rank_icon=github" height="175"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tusrei13&theme=tokyonight&hide_border=true&include_all_commits=true&include_forks=true&count_private=true&layout=compact&langs_count=8" height="175"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tusrei13&theme=tokyonight&hide_border=true&include_all_commits=true&include_forks=true&count_private=true&layout=compact&langs_count=10" height="175"/>
 </div>
 
 <br/>
@@ -173,8 +122,10 @@ tusrei13 = {
 
 ### 🏆 Hackathons & Competitions
 - 🎖️ **Top 24 Finalist — Hack `<CX>` Together 2026 (Season 02)**
-  - **Organizers:** Hanoi University of Science and Technology (HUST) × SPRIX Inc.
-  - **Sponsors & Partners:** ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![SHB](https://img.shields.io/badge/SHB-00529C?style=flat-square&logoColor=white) ![EY](https://img.shields.io/badge/EY-FFE600?style=flat-square&logoColor=black)
+  - **Organizers:** Hanoi University of Science and Technology (HUST - School of Digital Tech & Econ) × SPRIX Inc.
+  - **Strategic Partner:** <kbd><img src="https://upload.wikimedia.org/wikipedia/vi/thumb/a/a7/Logo_Ng%C3%A2n_h%C3%A0ng_SHB.svg/330px-Logo_Ng%C3%A2n_h%C3%A0ng_SHB.svg.png" height="22" align="center" alt="SHB"/></kbd> *(Saigon - Hanoi Commercial Joint Stock Bank)*
+  - **Accompanying Partners & Sponsors:** <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" height="22" align="center" alt="AWS"/></kbd> &nbsp; <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/EY_logo_2019.svg/250px-EY_logo_2019.svg.png" height="22" align="center" alt="EY"/></kbd>
+  - **Co-Organizing Units:** HUST School of Economics & AI4LIFE Institute
   - **Highlight:** Selected for the National Grand Finals among hundreds of participating teams (Hanoi, June 2026)
 
 </td>
