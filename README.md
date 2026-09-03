@@ -141,7 +141,7 @@ tusrei13 = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=tusrei13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="175"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=tusrei13&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&rank_icon=github" height="175"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tusrei13&theme=tokyonight&hide_border=true&include_all_commits=true&include_forks=true&count_private=true&layout=compact&langs_count=8" height="175"/>
 </div>
