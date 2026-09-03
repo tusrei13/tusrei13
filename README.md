@@ -123,8 +123,8 @@ tusrei13 = {
 ### 🏆 Hackathons & Competitions
 - 🎖️ **Top 24 Finalist — Hack `<CX>` Together 2026 (Season 02)**
   - **Organizers:** Hanoi University of Science and Technology (HUST - School of Digital Tech & Econ) × SPRIX Inc.
-  - **Strategic Partner:** <kbd><img src="https://upload.wikimedia.org/wikipedia/vi/thumb/a/a7/Logo_Ng%C3%A2n_h%C3%A0ng_SHB.svg/330px-Logo_Ng%C3%A2n_h%C3%A0ng_SHB.svg.png" height="22" align="center" alt="SHB"/></kbd> *(Saigon - Hanoi Commercial Joint Stock Bank)*
-  - **Accompanying Partners & Sponsors:** <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" height="22" align="center" alt="AWS"/></kbd> &nbsp; <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/EY_logo_2019.svg/250px-EY_logo_2019.svg.png" height="22" align="center" alt="EY"/></kbd>
+  - **Strategic Partner:** <kbd style="background-color: #ffffff; background: #ffffff;" bgcolor="#ffffff"><img src="https://upload.wikimedia.org/wikipedia/vi/thumb/a/a7/Logo_Ng%C3%A2n_h%C3%A0ng_SHB.svg/330px-Logo_Ng%C3%A2n_h%C3%A0ng_SHB.svg.png" height="22" align="center" alt="SHB"/></kbd> *(Saigon - Hanoi Commercial Joint Stock Bank)*
+  - **Accompanying Partners & Sponsors:** <kbd style="background-color: #ffffff; background: #ffffff;" bgcolor="#ffffff"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" height="22" align="center" alt="AWS"/></kbd> &nbsp; <kbd style="background-color: #ffffff; background: #ffffff;" bgcolor="#ffffff"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/EY_logo_2019.svg/250px-EY_logo_2019.svg.png" height="22" align="center" alt="EY"/></kbd>
   - **Co-Organizing Units:** HUST School of Economics & AI4LIFE Institute
   - **Highlight:** Selected for the National Grand Finals among hundreds of participating teams (Hanoi, June 2026)
 
