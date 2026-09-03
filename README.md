@@ -133,7 +133,7 @@ tusrei13 = {
 ## 🏆 Trophy Case
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tusrei13&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
+  <img src="https://github-trophies.devomb.com/?username=tusrei13&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
 </p>
 
 ---
@@ -143,7 +143,7 @@ tusrei13 = {
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=tusrei13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="175"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tusrei13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="175"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=tusrei13&theme=tokyonight&hide_border=true&include_all_commits=true&include_forks=true&count_private=true&layout=compact&langs_count=8" height="175"/>
 </div>
 
 <br/>
@@ -152,13 +152,7 @@ tusrei13 = {
   <img src="https://streak-stats.demolab.com?user=tusrei13&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="580"/>
 </div>
 
----
 
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tusrei13&bg_color=1a1b27&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true&radius=8" width="100%"/>
-
----
 
 ## 🏗️ Core Engineering Specializations
 
@@ -168,6 +162,24 @@ tusrei13 = {
 | 🗄️ **Database Engineering** | PostgreSQL · MySQL · MS SQL Server · MongoDB · Neo4j | Designing relational & graph schemas, indexing, and optimizing query execution |
 | ☁️ **DevOps & Data Pipelines** | Docker · Kubernetes · AWS · Vercel · Apache Airflow | Managing containerized deployments, automated CI/CD & scheduled data ETL workflows |
 | 📱 **Full-Stack & Mobile** | React · Next.js · Vue.js · Flutter · React Native | Developing responsive web interfaces & cross-platform applications |
+
+---
+
+## 🎯 Achievements
+
+<table>
+<tr>
+<td valign="top" width="100%">
+
+### 🏆 Hackathons & Competitions
+- 🎖️ **Top 24 Finalist — Hack `<CX>` Together 2026 (Season 02)**
+  - **Organizers:** Hanoi University of Science and Technology (HUST) × SPRIX Inc.
+  - **Sponsors & Partners:** ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![SHB](https://img.shields.io/badge/SHB-00529C?style=flat-square&logoColor=white) ![EY](https://img.shields.io/badge/EY-FFE600?style=flat-square&logoColor=black)
+  - **Highlight:** Selected for the National Grand Finals among hundreds of participating teams (Hanoi, June 2026)
+
+</td>
+</tr>
+</table>
 
 ---
 
